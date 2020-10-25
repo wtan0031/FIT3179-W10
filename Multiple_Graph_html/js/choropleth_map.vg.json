@@ -13,7 +13,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/4_interactive_scatter_plot/data/COVID_19_10_Oct_2020.csv"
+          "url": "https://raw.githubusercontent.com/wtan0031/FIT3179-W10/main/Multiple_Graph_html/data/COVID_19_10_Oct_2020.csv"
         },
         "key": "Country",
         "fields": ["Active", "Confirmed", "Deaths", "Population"]
